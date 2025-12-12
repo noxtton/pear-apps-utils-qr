@@ -1,6 +1,6 @@
 {
   "name": "pear-apps-utils-qr",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "utility for generating QR",
   "main": "index.js",
   "license": "Apache-2.0",
